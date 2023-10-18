@@ -294,7 +294,7 @@ padding: 10px 10px;
   background: #555;
 }
 .container-room .left-cont {
-  width: 80%;
+  width: 100%;
   background-color: #393e46;
   height: 100vh;
   padding: 50px;
@@ -799,3 +799,4 @@ padding: 10px 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
+
